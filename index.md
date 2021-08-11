@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
+## eXpect Token
 
-You can use the [editor on GitHub](https://github.com/EXP-tokens/exp-token.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+EXP (eXpect Tokens) is the Token that everyone hopes for.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Introduction
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# eXpect Token
+# Our contract address
 ## Expected tokens
 ### Header 3
 
